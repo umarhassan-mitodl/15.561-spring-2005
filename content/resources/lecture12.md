@@ -6,6 +6,8 @@ description: This file contains the information on approaches to software develo
 file: /courses/15-561-information-technology-essentials-spring-2005/a9bff0fddcd4a00c93f9ced27b2dbbc7_lecture12.pdf
 file_size: 122731
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

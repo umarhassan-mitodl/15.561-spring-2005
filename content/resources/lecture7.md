@@ -5,6 +5,8 @@ description: This file contains the introduction to access along with informatio
 file: /courses/15-561-information-technology-essentials-spring-2005/e47120c7f8f22a603047f8d018904dbe_lecture7.pdf
 file_size: 129529
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This file contains the information on types of software, programmin
 file: /courses/15-561-information-technology-essentials-spring-2005/bfa1e272a0a74fc4ff156a55e780125e_lecture5.pdf
 file_size: 192428
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: This file contains the information on issues about building enterpr
 file: /courses/15-561-information-technology-essentials-spring-2005/b90bd1af6174f5f4c50b0020045cc14e_lecture11.pdf
 file_size: 621280
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

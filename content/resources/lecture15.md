@@ -7,6 +7,8 @@ description: This file contains the information about operation vs decision supp
 file: /courses/15-561-information-technology-essentials-spring-2005/9c233972f77a75ef1220cfbfe01b6475_lecture15.pdf
 file_size: 252671
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

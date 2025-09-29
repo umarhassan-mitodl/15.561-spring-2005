@@ -5,6 +5,8 @@ description: This file contains the information about technology futures, commun
 file: /courses/15-561-information-technology-essentials-spring-2005/afd96589b7020aa7da2ebcfc28d53274_lecture16.pdf
 file_size: 113206
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
