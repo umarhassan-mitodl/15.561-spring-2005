@@ -5,8 +5,6 @@ description: This file contains the information on web technologies and covers t
 file: /courses/15-561-information-technology-essentials-spring-2005/81dcc1d5a6d38d4f192144a875596e8f_lecture8.pdf
 file_size: 2223368
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

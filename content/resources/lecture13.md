@@ -6,8 +6,6 @@ description: This file contains information about major IT applications in busin
 file: /courses/15-561-information-technology-essentials-spring-2005/d7b0b42fc6b0e6d82f266a3db06ef75a_lecture13.pdf
 file_size: 124664
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

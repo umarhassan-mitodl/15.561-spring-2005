@@ -6,8 +6,6 @@ description: This file contains information on network protocols, types of conne
 file: /courses/15-561-information-technology-essentials-spring-2005/896eae8f7451e5652018d17a6c80f44a_lecture4.pdf
 file_size: 206248
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

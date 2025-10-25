@@ -5,8 +5,6 @@ description: This file contains the basic information on computers, CPU, convers
 file: /courses/15-561-information-technology-essentials-spring-2005/1583a48996143e8e6318b15cf470c1c2_lecture2.pdf
 file_size: 272275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

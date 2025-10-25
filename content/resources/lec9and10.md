@@ -7,8 +7,6 @@ description: This file contains information on internet, communication security 
 file: /courses/15-561-information-technology-essentials-spring-2005/ff9a4c3af6bdbcb842d534ef6c24b01f_lec9and10.pdf
 file_size: 369255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
